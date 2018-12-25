@@ -9,3 +9,11 @@ run the script if your current directory is: /usr/share/geoserver/bin/
 
 In order to install geoserver please check: 
 https://docs.geoserver.org/latest/en/user/installation/linux.html
+
+#Start Service
+sh geoserver_ppid.sh start
+
+#Check Service
+sh geoserver_ppid.sh status
+GeoserverStartup.sh is running, pid=3244
+
